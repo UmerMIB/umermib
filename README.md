@@ -4,6 +4,8 @@
 
 Full-stack Engineer with 6+ years building web and mobile products ; currently deep into AI/LLM engineering, agentic workflows, and RAG pipelines.
 
+When I'm not shipping production features, I'm solving algorithmic problems ; Tree traversals, BFS/DFS, Dynamic Programming, and Heap-based patterns.
+
 🔭 Currently shipping AI-powered platforms used by real users in production
 
 🌱 Exploring multi-agent architectures with LangGraph and agentic system design
@@ -44,6 +46,11 @@ Full-stack Engineer with 6+ years building web and mobile products ; currently d
 
 ### 🛠️ Remote & Collaboration Tools
 <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white"> <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/-Monday.com-F2375E?style=flat&logo=monday&logoColor=white"> <img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"> <img src="https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white">
+
+---
+
+### 📊 LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/umermib?theme=dark&font=Nunito)
 
 
 ### Find me online 🌍
